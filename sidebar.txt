@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pnk:home|Door43 (pnk)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pnk|d43-pnk repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pnk/archive/master.zip|d43-pnk.zip]]
+
+**Recent Changes**
+{{changes>ns = pnk}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pnk|Ethnologue data]]
+
